@@ -1,0 +1,13 @@
+Tudo dentro de um arquivo html é um elemento.
+A estrutura basica de um html é:
+
+<"DOCTYPE html>
+<html>
+<head>
+<meta>
+<title></title>
+</head>
+<body>
+</body>
+</html>
+
