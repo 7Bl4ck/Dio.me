@@ -1,0 +1,8 @@
+Alinhamento e dimenções no CSS
+
+width e height, servem para ajustar largura e altura do elemento
+max-width e max-heigth, servem para ajustar a largura e algura maxima que esses elementos podem ter. eles se ajustam dependendo da situação
+
+margin, serve para colocar espaçamento entre elementos, e tbm alinha o elemento automaticamente;
+
+text-align, serve para alinha o texto.

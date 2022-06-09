@@ -1,0 +1,21 @@
+
+o que são seletores, são apenas elementos de html..
+
+usamos os seletores, para mudar cores, font, tamanho, posições ou seja pra mudar a aparencia...
+
+
+chamamos as classes por um "."
+chamamos os id por "#"
+
+
+box model tem quatro areas:
+
+margin, são os espaçamentos entre os elementos
+
+border, circundam o padding e o conteudo, podemos alterar a aparecia delas, largura e cor.
+
+padding, é o espaçamento entre a borda e o conteudo
+
+content, é o que o seu bloco reprensenta, um texto, imagem, video, etc...
+
+
